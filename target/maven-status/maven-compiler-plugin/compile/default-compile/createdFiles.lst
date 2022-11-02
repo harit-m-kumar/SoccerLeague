@@ -1,0 +1,10 @@
+soccer\webController\SoccerLeagueWebController.class
+soccer\entity\Matches.class
+soccer\SoccerMain.class
+soccer\entity\SoccerLeague.class
+soccer\entity\SoccerTeams.class
+soccer\Repository\SoccerTeamsRepository.class
+soccer\utils\LeagueStatisticsView.class
+soccer\SoccerMain$TeamController.class
+soccer\Repository\MatchesRepository.class
+soccer\Repository\SoccerLeagueRepository.class
